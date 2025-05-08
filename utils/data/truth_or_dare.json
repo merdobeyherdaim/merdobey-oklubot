@@ -1,0 +1,8 @@
+{
+    "questions": [
+        {"question": "Hiç kimseye söylemediğin bir sırrını paylaş.", "type": "truth"},
+        {"question": "En korktuğun şey nedir?", "type": "truth"},
+        {"question": "Dans et, herkes seni izlesin.", "type": "dare"},
+        {"question": "Bir arkadaşına komik bir takma ad ver.", "type": "dare"}
+    ]
+}
