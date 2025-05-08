@@ -5,7 +5,7 @@ from handlers import music, games, admin
 from utils import translator, tagger, spam_protection
 
 # Bot Token
-API_TOKEN = "YOUR_BOT_API_TOKEN"
+API_TOKEN = "7708774015:AAEUyPy43HsUHdCOJNQoC30vNjhV4fEvjko"
 
 # Logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
