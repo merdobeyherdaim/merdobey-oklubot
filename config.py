@@ -1,1 +1,1 @@
-API_TOKEN = "YOUR_BOT_API_TOKEN"  # Buraya bot token'ınızı girin.
+API_TOKEN = "7708774015:AAEUyPy43HsUHdCOJNQoC30vNjhV4fEvjko"  # Buraya bot token'ınızı girin.
