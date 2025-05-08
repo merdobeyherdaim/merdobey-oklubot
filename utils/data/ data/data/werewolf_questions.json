@@ -1,0 +1,6 @@
+{
+    "questions": [
+        {"question": "Hangi karakterin kim olduğunu tahmin ediyorsun?", "role": "werewolf"},
+        {"question": "Kimseyi suçlamadan birini seç ve öldür!", "role": "villager"}
+    ]
+}
